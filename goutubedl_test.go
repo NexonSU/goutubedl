@@ -16,8 +16,8 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/NexonSU/goutubedl"
 	"github.com/fortytw2/leaktest"
-	"github.com/wader/goutubedl"
 	"github.com/wader/osleaktest"
 )
 
